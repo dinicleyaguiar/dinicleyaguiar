@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;pause=1200&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=O+mundo+ainda+tem+solu%C3%A7%C3%A3o%2C+%C3%A9+s%C3%B3+me+passar+o+c%C3%B3digo+fonte." alt="O mundo ainda tem solução, é só me passar o código fonte." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;pause=1200&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;width=1100&amp;lines=O+mundo+ainda+tem+solu%C3%A7%C3%A3o%2C+%C3%A9+s%C3%B3+me+passar+o+c%C3%B3digo+fonte.;Transformo+ideias+em+sistemas+que+resolvem+problemas+reais.;Ensinar+tecnologia+tamb%C3%A9m+%C3%A9+uma+forma+de+construir+o+futuro.;Entre+c%C3%B3digos%2C+servidores+e+projetos%2C+sempre+existe+uma+solu%C3%A7%C3%A3o.;De+Bannach+para+o+mundo%2C+criando+tecnologia+com+prop%C3%B3sito." alt="Frases sobre tecnologia, desenvolvimento e propósito" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 <table align="center">
   <tr>
     <td width="32%" align="center" valign="middle">
-      <img src="./assets/dinicley-floating.svg" width="250" alt="Foto circular e animada de Dinicley Aguiar" />
+      <img src="./assets/dinicley.svg" width="250" alt="Foto Dinicley" />
     </td>
     <td width="68%" valign="top">
       <h3>Olá, eu sou Dinicley Aguiar.</h3>
@@ -211,7 +211,7 @@ const dinicley = {
 
 <p align="center">
   <a href="https://lattes.cnpq.br/0845921042730272">
-    <img src="https://img.shields.io/badge/Acessar%20meu%20Curr%C3%ADculo%20Lattes-0A66C2?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="Acessar o Currículo Lattes de Dinicley Aguiar" />
+    <img src="https://img.shields.io/badge/Acessar%20meu%20Curr%C3%ADculo%20Lattes-0A66C2?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="Acessar o Currículo Lattes" />
   </a>
 </p>
 
