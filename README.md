@@ -30,12 +30,12 @@
 <table align="center">
   <tr>
     <td width="32%" align="center" valign="middle">
-      <img src="./assets/dinicley.svg" width="250" alt="Foto circular e animada de Dinicley Aguiar" />
+      <img src="./assets/dinicley-floating.svg" width="250" alt="Foto circular e animada de Dinicley Aguiar" />
     </td>
     <td width="68%" valign="top">
       <h3>Olá, eu sou Dinicley Aguiar.</h3>
       <p>
-        Sou professor, desenvolvedor Full Stack, gestor de tecnologia e profissional de comunicação digital, com mais de 15 anos de experiência em tecnologia.
+        Sou professor desenvolvedor Full Stack, gestor de tecnologia e profissional de comunicação digital, com mais de 15 anos de experiência em tecnologia.
       </p>
       <p>
         Desenvolvo sistemas, sites, painéis administrativos, automações e soluções digitais para empresas, comunicação, serviços públicos e projetos locais.
@@ -55,7 +55,7 @@ const dinicley = {
   nome: "Dinicley Aguiar",
   localização: "Bannach, Pará, Brasil",
   formação: "Licenciatura em Computação",
-  atuação: "Desenvolvedor Full Stack e Gestor de Tecnologia",
+  atuação: "Professor, Desenvolvedor Full Stack e Gestor de Tecnologia",
   experiência: "+15 anos",
 
   áreas: [
@@ -154,27 +154,49 @@ const dinicley = {
   <tr>
     <td width="50%" valign="top">
       <h3>Grupo Delta Tecnologia</h3>
-      <p>Tecnologia, desenvolvimento, marketing e soluções digitais.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Atualmente-2EA44F?style=flat-square" alt="Atuação atual no Grupo Delta Tecnologia" />
+      </p>
+      <p>Atuação atual em tecnologia, desenvolvimento, marketing e soluções digitais.</p>
       <p>
         <a href="https://grupodeltatecnologia.com.br">grupodeltatecnologia.com.br</a><br>
         <a href="https://instagram.com/g.deltatecnologia">@g.deltatecnologia</a>
       </p>
     </td>
+
     <td width="50%" valign="top">
       <h3>Bannach News</h3>
-      <p>Desenvolvimento, tecnologia e gestão de um portal de notícias voltado para Bannach e região.</p>
-      <p><a href="https://bannachnews.com.br">bannachnews.com.br</a></p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Atualmente-2EA44F?style=flat-square" alt="Atuação atual no Bannach News" />
+      </p>
+      <p>Atuação atual no desenvolvimento, tecnologia e gestão de um portal de notícias voltado para Bannach e região.</p>
+      <p>
+        <a href="https://bannachnews.com.br">bannachnews.com.br</a>
+      </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3>Câmara Municipal de Bannach</h3>
-      <p>Comunicação pública, tecnologia, transparência, suporte institucional e soluções digitais.</p>
-      <p><a href="https://cmbannach.pa.gov.br">cmbannach.pa.gov.br</a></p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Atuação%20anterior-6E7781?style=flat-square" alt="Atuação anterior na Câmara Municipal de Bannach" />
+      </p>
+      <p>Atuação anterior em comunicação pública, tecnologia, transparência, suporte institucional e soluções digitais.</p>
+      <p>
+        <a href="https://cmbannach.pa.gov.br">cmbannach.pa.gov.br</a>
+      </p>
     </td>
+
     <td width="50%" valign="top">
       <h3>Prefeitura Municipal de Bannach</h3>
-      <p>Servidor público com atuação relacionada à tecnologia, comunicação e serviços digitais.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Atuação%20anterior-6E7781?style=flat-square" alt="Atuação anterior na Prefeitura Municipal de Bannach" />
+      </p>
+      <p>Atuação anterior como servidor público, com atividades relacionadas à tecnologia, comunicação e serviços digitais.</p>
+      <p>
+        <a href="https://bannach.pa.gov.br">bannach.pa.gov.br</a>
+      </p>
     </td>
   </tr>
 </table>
