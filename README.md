@@ -155,7 +155,7 @@ const dinicley = {
     <td width="50%" valign="top">
       <h3>Grupo Delta Tecnologia</h3>
       <p>
-        <img src="https://img.shields.io/badge/Status-Atualmente-2EA44F?style=flat-square" alt="Atuação atual no Grupo Delta Tecnologia" />
+        <img src="https://img.shields.io/badge/Status-ATUAL-2EA44F?style=flat-square" alt="Status atual no Grupo Delta Tecnologia" />
       </p>
       <p>Atuação atual em tecnologia, desenvolvimento, marketing e soluções digitais.</p>
       <p>
@@ -163,35 +163,32 @@ const dinicley = {
         <a href="https://instagram.com/g.deltatecnologia">@g.deltatecnologia</a>
       </p>
     </td>
-
     <td width="50%" valign="top">
       <h3>Bannach News</h3>
       <p>
-        <img src="https://img.shields.io/badge/Status-Atualmente-2EA44F?style=flat-square" alt="Atuação atual no Bannach News" />
+        <img src="https://img.shields.io/badge/Status-ATUAL-2EA44F?style=flat-square" alt="Status atual no Bannach News" />
       </p>
-      <p>Atuação atual no desenvolvimento, tecnologia e gestão de um portal de notícias voltado para Bannach e região.</p>
+      <p>Atuação atual no desenvolvimento, na tecnologia e na gestão do portal de notícias Bannach News.</p>
       <p>
         <a href="https://bannachnews.com.br">bannachnews.com.br</a>
       </p>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3>Câmara Municipal de Bannach</h3>
       <p>
-        <img src="https://img.shields.io/badge/Status-Atuação%20anterior-6E7781?style=flat-square" alt="Atuação anterior na Câmara Municipal de Bannach" />
+        <img src="https://img.shields.io/badge/Status-ATUA%C3%87%C3%83O%20ANTERIOR-6E7781?style=flat-square" alt="Atuação anterior na Câmara Municipal de Bannach" />
       </p>
       <p>Atuação anterior em comunicação pública, tecnologia, transparência, suporte institucional e soluções digitais.</p>
       <p>
         <a href="https://cmbannach.pa.gov.br">cmbannach.pa.gov.br</a>
       </p>
     </td>
-
     <td width="50%" valign="top">
       <h3>Prefeitura Municipal de Bannach</h3>
       <p>
-        <img src="https://img.shields.io/badge/Status-Atuação%20anterior-6E7781?style=flat-square" alt="Atuação anterior na Prefeitura Municipal de Bannach" />
+        <img src="https://img.shields.io/badge/Status-ATUA%C3%87%C3%83O%20ANTERIOR-6E7781?style=flat-square" alt="Atuação anterior na Prefeitura Municipal de Bannach" />
       </p>
       <p>Atuação anterior como servidor público, com atividades relacionadas à tecnologia, comunicação e serviços digitais.</p>
       <p>
