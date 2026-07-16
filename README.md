@@ -30,12 +30,12 @@
 <table align="center">
   <tr>
     <td width="32%" align="center" valign="middle">
-      <img src="./assets/dinicley-aguiar.png" width="230" alt="Foto de Dinicley Aguiar" />
+      <img src="./assets/dinicley.svg" width="250" alt="Foto circular e animada de Dinicley Aguiar" />
     </td>
     <td width="68%" valign="top">
       <h3>Olá, eu sou Dinicley Aguiar.</h3>
       <p>
-        Sou desenvolvedor Full Stack, gestor de tecnologia e profissional de comunicação digital, com mais de 15 anos de experiência em tecnologia.
+        Sou professor, desenvolvedor Full Stack, gestor de tecnologia e profissional de comunicação digital, com mais de 15 anos de experiência em tecnologia.
       </p>
       <p>
         Desenvolvo sistemas, sites, painéis administrativos, automações e soluções digitais para empresas, comunicação, serviços públicos e projetos locais.
