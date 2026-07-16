@@ -97,7 +97,7 @@ const dinicley = {
 <table align="center">
   <tr>
     <td align="center" width="25%">💻<br>MacBook Air</td>
-    <td align="center" width="25%">🎮<br>Dell G15</td>
+    <td align="center" width="25%">💻<br>Dell G15</td>
     <td align="center" width="25%">🖥️<br>Monitor Philips 4K</td>
     <td align="center" width="25%">📺<br>Echo Show 5</td>
   </tr>
