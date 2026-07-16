@@ -280,7 +280,7 @@ const dinicley = {
 
 <br>
 
-<p align="center">With love 💙 Dinicley Aguiar</p>
+<p align="center">With love 💙 Dinicley Aguiar</p> 
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00E5FF,50:0A66C2,100:0D1117&amp;height=130&amp;section=footer" alt="Rodapé" />
