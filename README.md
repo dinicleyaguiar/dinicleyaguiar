@@ -229,7 +229,7 @@ const dinicley = {
 
 ## 🏆 Troféus do GitHub
 
-[![Troféus](https://github-profile-trophy.vercel.app/?username=dinicleyaguiar&theme=onedark&row=1&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Troféus](https://github-profile-trophy.vercel.app/?username=DinicleyAguiar&theme=onedark&row=1&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
