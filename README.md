@@ -227,13 +227,22 @@ const dinicley = {
 
 <div align="center">
 
-## 🏆 Troféus do GitHub
+<div align="center">
 
-[![Troféus](https://github-profile-trophy.vercel.app/?username=DinicleyAguiar&theme=onedark&row=1&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+  <h2>🏆 Conquistas</h2>
+
+  <a href="https://github.com/users/dinicleyaguiar/achievements/arctic-code-vault-contributor">
+    <img
+      src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"
+      width="130"
+      alt="Arctic Code Vault Contributor"
+    />
+  </a>
+
+  <p>Arctic Code Vault Contributor</p>
 
 </div>
 
-<br>
 
 <h2 align="center">🌐 Redes sociais</h2>
 
