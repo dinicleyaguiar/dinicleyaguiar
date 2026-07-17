@@ -225,11 +225,13 @@ const dinicley = {
   <img width="70%" src="https://streak-stats.demolab.com?user=dinicleyaguiar&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=00E5FF&amp;fire=0A66C2&amp;currStreakLabel=00E5FF&amp;locale=pt_BR" alt="Sequência de contribuições de Dinicley Aguiar" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="100%" src="https://github-profile-trophy-kannan.vercel.app/?username=dinicleyaguiar&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;margin-h=8&amp;column=-1" alt="Troféus do GitHub de Dinicley Aguiar" />
-  </a>
-</p>
+<div align="center">
+
+## 🏆 Troféus do GitHub
+
+[![Troféus](https://github-profile-trophy.vercel.app/?username=dinicleyaguiar&theme=onedark&row=1&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 <br>
 
