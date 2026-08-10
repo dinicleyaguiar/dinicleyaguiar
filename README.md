@@ -61,7 +61,7 @@
 
 <br>
 
-<h2 align="center">⌨️ Meu perfil em código</h2>
+<h2 align="center">⌨️</h2>
 
 <p align="center">
   <img
