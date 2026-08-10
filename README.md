@@ -59,6 +59,8 @@
   </tr>
 </table>
 
+<br>
+
 const dinicley = {
   nome: "Dinicley Aguiar",
   localização: "Bannach, Pará, Brasil",
@@ -73,28 +75,32 @@ const dinicley = {
   experiência: "+15 anos",
 
   foco: [
-    "Sistemas web",
-    "APIs e integrações",
-    "Automação de processos",
-    "Bancos de dados",
+    "Sistemas Web",
+    "APIs & Integrações",
+    "Automação de Processos",
+    "Banco de Dados",
     "Infraestrutura",
-    "Tecnologia aplicada à educação e comunicação"
+    "Tecnologia aplicada à Educação"
   ],
 
-  stackPrincipal: [
-    "PHP",
-    "JavaScript",
-    "Node.js",
-    "Python",
-    "MySQL",
-    "SQLite",
-    "Docker",
-    "Git"
-  ],
+  stack: {
+    backend: ["PHP", "Node.js", "Python"],
+    frontend: ["HTML", "CSS", "JavaScript"],
+    database: ["MySQL", "SQLite"],
+    devops: ["Docker", "Git", "GitHub", "Linux"]
+  },
+
+  atualmente: {
+    ensinando: "Tecnologia",
+    desenvolvendo: "Sistemas e automações",
+    aprendendo: "Sempre"
+  },
 
   propósito:
-    "Transformar necessidades reais em soluções úteis, simples e eficientes."
+    "Transformar problemas reais em soluções através da tecnologia."
 };
+
+console.log("Hello, World! 👋");
 
 <br>
 
@@ -304,10 +310,10 @@ const dinicley = {
 
 <br>
 
-<h2 align="center">Code and code ... </h2>
+<h2 align="center">🐍 Minhas contribuições em movimento</h2>
 
 <p align="center">
-  Let's Code.
+  A cobrinha abaixo percorre meu histórico real de contribuições no GitHub.
 </p>
 
 <picture>
