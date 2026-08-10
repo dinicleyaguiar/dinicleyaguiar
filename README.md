@@ -304,10 +304,10 @@ const dinicley = {
 
 <br>
 
-<h2 align="center">🐍 Minhas contribuições em movimento</h2>
+<h2 align="center">Code and code ... </h2>
 
 <p align="center">
-  A cobrinha abaixo percorre meu histórico real de contribuições no GitHub.
+  Let's Code.
 </p>
 
 <picture>
