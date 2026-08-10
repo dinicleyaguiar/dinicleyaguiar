@@ -61,46 +61,15 @@
 
 <br>
 
-const dinicley = {
-  nome: "Dinicley Aguiar",
-  localização: "Bannach, Pará, Brasil",
+<h2 align="center">⌨️ Meu perfil em código</h2>
 
-  atuação: [
-    "Professor",
-    "Desenvolvedor Full Stack",
-    "Gestor de Tecnologia",
-    "Comunicação Digital"
-  ],
-
-  experiência: "+15 anos",
-
-  foco: [
-    "Sistemas Web",
-    "APIs & Integrações",
-    "Automação de Processos",
-    "Banco de Dados",
-    "Infraestrutura",
-    "Tecnologia aplicada à Educação"
-  ],
-
-  stack: {
-    backend: ["PHP", "Node.js", "Python"],
-    frontend: ["HTML", "CSS", "JavaScript"],
-    database: ["MySQL", "SQLite"],
-    devops: ["Docker", "Git", "GitHub", "Linux"]
-  },
-
-  atualmente: {
-    ensinando: "Tecnologia",
-    desenvolvendo: "Sistemas e automações",
-    aprendendo: "Sempre"
-  },
-
-  propósito:
-    "Transformar problemas reais em soluções através da tecnologia."
-};
-
-console.log("Hello, World! 👋");
+<p align="center">
+  <img
+    src="./assets/dinicley-code.svg"
+    width="100%"
+    alt="Perfil de Dinicley Aguiar sendo digitado em um editor inspirado no Visual Studio Code"
+  />
+</p>
 
 <br>
 
