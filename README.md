@@ -1,9 +1,5 @@
 <p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0A66C2,100:00E5FF&height=230&section=header&text=Dinicley%20Aguiar&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Professor%20%7C%20Full%20Stack%20Developer%20%7C%20Gestor%20de%20Tecnologia&descAlignY=56&descSize=18"
-    alt="Cabeçalho de Dinicley Aguiar"
-  />
+  <img width="100%" src="./assets/vscode-intro.svg" alt="Perfil de Dinicley Aguiar em interface inspirada no VS Code" />
 </p>
 
 <p align="center">
@@ -18,7 +14,7 @@
     <img src="https://img.shields.io/github/followers/dinicleyaguiar?label=Seguidores&style=for-the-badge&logo=github&color=0A66C2&labelColor=0D1117" alt="Seguidores no GitHub" />
   </a>
   <a href="https://github.com/dinicleyaguiar?tab=repositories">
-    <img src="https://img.shields.io/badge/Projetos-GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Projetos no GitHub" />
+    <img src="https://img.shields.io/badge/Reposit%C3%B3rios-P%C3%BAblicos-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Repositórios públicos" />
   </a>
   <a href="https://grupodeltatecnologia.com.br">
     <img src="https://img.shields.io/badge/Empresa-Grupo%20Delta-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Grupo Delta Tecnologia" />
@@ -47,9 +43,7 @@
         Desenvolvo aplicações web, APIs, sistemas desktop, ferramentas de produtividade,
         soluções comerciais e projetos voltados para educação, empresas e serviços públicos.
       </p>
-      <p>
-        Gosto de transformar problemas reais em ferramentas simples, organizadas, funcionais e úteis.
-      </p>
+      <p>Gosto de transformar problemas reais em ferramentas simples, organizadas, funcionais e úteis.</p>
       <p>📍 Bannach, Pará, Brasil.</p>
     </td>
   </tr>
@@ -119,23 +113,19 @@
     <td width="50%" valign="top">
       <h3><a href="https://github.com/dinicleyaguiar/expo-pomodoro-app">Expo Pomodoro App</a></h3>
       <p>Projeto mobile para produtividade e organização do tempo, mostrando minha atuação além do desenvolvimento web.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Expo-Mobile-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-      </p>
+      <p><img src="https://img.shields.io/badge/Expo-Mobile-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" /></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/dinicleyaguiar/aula-01-ifto-redes">Aula IFTO — Redes</a></h3>
       <p>Material educacional que conecta desenvolvimento, redes de computadores e minha atuação como professor de tecnologia.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Foco-Educa%C3%A7%C3%A3o-0A66C2?style=flat-square" alt="Educação" />
-      </p>
+      <p><img src="https://img.shields.io/badge/Foco-Educa%C3%A7%C3%A3o-0A66C2?style=flat-square" alt="Educação" /></p>
     </td>
   </tr>
 </table>
 
 <p align="center">
   <a href="https://github.com/dinicleyaguiar?tab=repositories">
-    <img src="https://img.shields.io/badge/Explorar%20todos%20os%20reposit%C3%B3rios-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Explorar todos os repositórios" />
+    <img src="https://img.shields.io/badge/Explorar%20reposit%C3%B3rios%20p%C3%BAblicos-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositórios públicos" />
   </a>
 </p>
 
@@ -166,11 +156,7 @@
 
 <p align="center">
   <a href="https://github.com/users/dinicleyaguiar/achievements/arctic-code-vault-contributor">
-    <img
-      src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"
-      width="115"
-      alt="Arctic Code Vault Contributor"
-    />
+    <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" width="115" alt="Arctic Code Vault Contributor" />
   </a>
 </p>
 
@@ -185,32 +171,20 @@
 <h2 align="center">📊 GitHub em números</h2>
 
 <p align="center">
-  <img
-    width="95%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinicleyaguiar&theme=github_dark"
-    alt="Resumo do perfil GitHub de Dinicley Aguiar"
-  />
+  <img width="95%" src="./assets/counters.svg" alt="Contadores públicos do GitHub" />
 </p>
 
 <p align="center">
-  <img
-    width="46%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dinicleyaguiar&theme=github_dark"
-    alt="Estatísticas GitHub de Dinicley Aguiar"
-  />
-  <img
-    width="46%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dinicleyaguiar&theme=github_dark"
-    alt="Linguagens por repositório de Dinicley Aguiar"
-  />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinicleyaguiar&theme=github_dark" alt="Resumo do perfil GitHub de Dinicley Aguiar" />
 </p>
 
 <p align="center">
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=dinicleyaguiar&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=0A66C2&currStreakLabel=00E5FF&locale=pt_BR"
-    alt="Sequência de contribuições de Dinicley Aguiar"
-  />
+  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dinicleyaguiar&theme=github_dark" alt="Estatísticas GitHub de Dinicley Aguiar" />
+  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dinicleyaguiar&theme=github_dark" alt="Linguagens por repositório de Dinicley Aguiar" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=dinicleyaguiar&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=0A66C2&currStreakLabel=00E5FF&locale=pt_BR" alt="Sequência de contribuições de Dinicley Aguiar" />
 </p>
 
 <br>
@@ -218,19 +192,9 @@
 <h2 align="center">🐍 Contribuições</h2>
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/dinicleyaguiar/dinicleyaguiar/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/dinicleyaguiar/dinicleyaguiar/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    width="100%"
-    alt="Animação das contribuições de Dinicley Aguiar"
-    src="https://raw.githubusercontent.com/dinicleyaguiar/dinicleyaguiar/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinicleyaguiar/dinicleyaguiar/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dinicleyaguiar/dinicleyaguiar/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Animação das contribuições de Dinicley Aguiar" src="https://raw.githubusercontent.com/dinicleyaguiar/dinicleyaguiar/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <br>
@@ -253,15 +217,9 @@
 <h2 align="center">🌐 Vamos nos conectar</h2>
 
 <p align="center">
-  <a href="https://instagram.com/dinicleyaguiar">
-    <img src="https://img.shields.io/badge/Instagram-%40dinicleyaguiar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/dinicleyaguiar">
-    <img src="https://img.shields.io/badge/LinkedIn-%40dinicleyaguiar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://youtube.com/@dinicleyaguiar">
-    <img src="https://img.shields.io/badge/YouTube-%40dinicleyaguiar-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
+  <a href="https://instagram.com/dinicleyaguiar"><img src="https://img.shields.io/badge/Instagram-%40dinicleyaguiar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/dinicleyaguiar"><img src="https://img.shields.io/badge/LinkedIn-%40dinicleyaguiar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/@dinicleyaguiar"><img src="https://img.shields.io/badge/YouTube-%40dinicleyaguiar-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
 <br>
@@ -275,16 +233,10 @@
   acessíveis, eficientes e prontas para evoluir.
 </p>
 
-<p align="center">
-  <code>while (problema) { criarSolucao(); aprender(); compartilhar(); }</code>
-</p>
+<p align="center"><code>while (problema) { criarSolucao(); aprender(); compartilhar(); }</code></p>
 
 <p align="center">With love 💙 Dinicley Aguiar</p>
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0A66C2,100:0D1117&height=130&section=footer"
-    alt="Rodapé"
-  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0A66C2,100:0D1117&height=130&section=footer" alt="Rodapé" />
 </p>
