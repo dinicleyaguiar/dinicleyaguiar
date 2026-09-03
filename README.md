@@ -141,27 +141,6 @@
 
 <br>
 
-<h2 align="center">🧩 Projetos privados em desenvolvimento</h2>
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>GD Commerce</h3>
-      <p>Ecossistema comercial com retaguarda, PDV desktop, operação offline, estoque, relatórios, controle de caixa e evolução fiscal.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Grupo Delta Tecnologia</h3>
-      <p>Infraestrutura e soluções da GD Tecnologia, incluindo aplicações, monitoramento, automações e serviços digitais.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>DevJourney</h3>
-      <p>Ferramenta desktop voltada à prática contínua de desenvolvimento e versionamento de exercícios.</p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <h2 align="center">🏢 Atuação</h2>
 
 <table align="center">
