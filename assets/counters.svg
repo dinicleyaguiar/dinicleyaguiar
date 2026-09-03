@@ -1,50 +1,64 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="190" viewBox="0 0 960 190" role="img" aria-label="Contadores públicos do perfil GitHub de Dinicley Aguiar">
   <rect width="960" height="190" rx="18" fill="#0d1117"/>
   <rect x="1" y="1" width="958" height="188" rx="17" fill="none" stroke="#30363d"/>
-  <g font-family="monospace" text-anchor="middle">
+
+  <g text-anchor="middle">
     <g transform="translate(96 0)">
-      <text y="80" fill="#00e5ff" font-size="38" font-weight="700">
-        <tspan opacity="1">0<animate attributeName="opacity" values="1;0;0;0;0;0;0;0" dur="1.8s" fill="freeze"/></tspan>
-        <tspan x="0" opacity="0">10<animate attributeName="opacity" values="0;1;0;0;0;0;0;0" dur="1.8s" fill="freeze"/></tspan>
-        <tspan x="0" opacity="0">20<animate attributeName="opacity" values="0;0;1;0;0;0;0;0" dur="1.8s" fill="freeze"/></tspan>
-        <tspan x="0" opacity="0">30<animate attributeName="opacity" values="0;0;0;1;0;0;0;0" dur="1.8s" fill="freeze"/></tspan>
-        <tspan x="0" opacity="0">40<animate attributeName="opacity" values="0;0;0;0;1;0;0;0" dur="1.8s" fill="freeze"/></tspan>
-        <tspan x="0" opacity="0">50<animate attributeName="opacity" values="0;0;0;0;0;1;0;0" dur="1.8s" fill="freeze"/></tspan>
-        <tspan x="0" opacity="0">60<animate attributeName="opacity" values="0;0;0;0;0;0;1;0" dur="1.8s" fill="freeze"/></tspan>
-        <tspan x="0" opacity="0">70<animate attributeName="opacity" values="0;0;0;0;0;0;0;1" dur="1.8s" fill="freeze"/></tspan>
-      </text>
-      <text y="116" fill="#8b949e" font-size="12">REPOSITÓRIOS PÚBLICOS</text>
+      <g font-family="Sora, sans-serif" font-size="38" font-weight="700" fill="#00e5ff">
+        <text y="80">0<animate attributeName="opacity" values="1;0;0;0;0;0;0;0" dur="1.8s" fill="freeze"/></text>
+        <text y="80" opacity="0">10<animate attributeName="opacity" values="0;1;0;0;0;0;0;0" dur="1.8s" fill="freeze"/></text>
+        <text y="80" opacity="0">20<animate attributeName="opacity" values="0;0;1;0;0;0;0;0" dur="1.8s" fill="freeze"/></text>
+        <text y="80" opacity="0">30<animate attributeName="opacity" values="0;0;0;1;0;0;0;0" dur="1.8s" fill="freeze"/></text>
+        <text y="80" opacity="0">40<animate attributeName="opacity" values="0;0;0;0;1;0;0;0" dur="1.8s" fill="freeze"/></text>
+        <text y="80" opacity="0">50<animate attributeName="opacity" values="0;0;0;0;0;1;0;0" dur="1.8s" fill="freeze"/></text>
+        <text y="80" opacity="0">60<animate attributeName="opacity" values="0;0;0;0;0;0;1;0" dur="1.8s" fill="freeze"/></text>
+        <text y="80" opacity="0">70<animate attributeName="opacity" values="0;0;0;0;0;0;0;1" dur="1.8s" fill="freeze"/></text>
+      </g>
+      <text y="116" fill="#8b949e" font-family="Poppins, sans-serif" font-size="12">REPOSITÓRIOS PÚBLICOS</text>
     </g>
+
     <g transform="translate(288 0)">
-      <text y="80" fill="#58a6ff" font-size="38" font-weight="700">0<animate attributeName="opacity" values="1;0;0;0;0;0;0" dur="1.6s" fill="freeze"/></text>
-      <text y="80" fill="#58a6ff" font-size="38" font-weight="700" opacity="0">1<animate attributeName="opacity" values="0;1;0;0;0;0;0" dur="1.6s" fill="freeze"/></text>
-      <text y="80" fill="#58a6ff" font-size="38" font-weight="700" opacity="0">2<animate attributeName="opacity" values="0;0;1;0;0;0;0" dur="1.6s" fill="freeze"/></text>
-      <text y="80" fill="#58a6ff" font-size="38" font-weight="700" opacity="0">3<animate attributeName="opacity" values="0;0;0;1;0;0;0" dur="1.6s" fill="freeze"/></text>
-      <text y="80" fill="#58a6ff" font-size="38" font-weight="700" opacity="0">4<animate attributeName="opacity" values="0;0;0;0;1;0;0" dur="1.6s" fill="freeze"/></text>
-      <text y="80" fill="#58a6ff" font-size="38" font-weight="700" opacity="0">5<animate attributeName="opacity" values="0;0;0;0;0;1;0" dur="1.6s" fill="freeze"/></text>
-      <text y="80" fill="#58a6ff" font-size="38" font-weight="700" opacity="0">6<animate attributeName="opacity" values="0;0;0;0;0;0;1" dur="1.6s" fill="freeze"/></text>
-      <text y="116" fill="#8b949e" font-size="12">PROJETOS EM DESTAQUE</text>
+      <g font-family="Sora, sans-serif" font-size="38" font-weight="700" fill="#58a6ff">
+        <text y="80">0<animate attributeName="opacity" values="1;0;0;0;0;0;0" dur="1.6s" fill="freeze"/></text>
+        <text y="80" opacity="0">1<animate attributeName="opacity" values="0;1;0;0;0;0;0" dur="1.6s" fill="freeze"/></text>
+        <text y="80" opacity="0">2<animate attributeName="opacity" values="0;0;1;0;0;0;0" dur="1.6s" fill="freeze"/></text>
+        <text y="80" opacity="0">3<animate attributeName="opacity" values="0;0;0;1;0;0;0" dur="1.6s" fill="freeze"/></text>
+        <text y="80" opacity="0">4<animate attributeName="opacity" values="0;0;0;0;1;0;0" dur="1.6s" fill="freeze"/></text>
+        <text y="80" opacity="0">5<animate attributeName="opacity" values="0;0;0;0;0;1;0" dur="1.6s" fill="freeze"/></text>
+        <text y="80" opacity="0">6<animate attributeName="opacity" values="0;0;0;0;0;0;1" dur="1.6s" fill="freeze"/></text>
+      </g>
+      <text y="116" fill="#8b949e" font-family="Poppins, sans-serif" font-size="12">PROJETOS EM DESTAQUE</text>
     </g>
+
     <g transform="translate(480 0)">
-      <text y="80" fill="#3fb950" font-size="38" font-weight="700">0<animate attributeName="opacity" values="1;0;0;0;0;0" dur="1.9s" fill="freeze"/></text>
-      <text y="80" fill="#3fb950" font-size="38" font-weight="700" opacity="0">5<animate attributeName="opacity" values="0;1;0;0;0;0" dur="1.9s" fill="freeze"/></text>
-      <text y="80" fill="#3fb950" font-size="38" font-weight="700" opacity="0">10<animate attributeName="opacity" values="0;0;1;0;0;0" dur="1.9s" fill="freeze"/></text>
-      <text y="80" fill="#3fb950" font-size="38" font-weight="700" opacity="0">15<animate attributeName="opacity" values="0;0;0;1;0;0" dur="1.9s" fill="freeze"/></text>
-      <text y="80" fill="#3fb950" font-size="38" font-weight="700" opacity="0">20<animate attributeName="opacity" values="0;0;0;0;1;0" dur="1.9s" fill="freeze"/></text>
-      <text y="80" fill="#3fb950" font-size="38" font-weight="700" opacity="0">25<animate attributeName="opacity" values="0;0;0;0;0;1" dur="1.9s" fill="freeze"/></text>
-      <text y="116" fill="#8b949e" font-size="12">TECNOLOGIAS NO STACK</text>
+      <g font-family="Sora, sans-serif" font-size="38" font-weight="700" fill="#3fb950">
+        <text y="80">0<animate attributeName="opacity" values="1;0;0;0;0;0" dur="1.9s" fill="freeze"/></text>
+        <text y="80" opacity="0">5<animate attributeName="opacity" values="0;1;0;0;0;0" dur="1.9s" fill="freeze"/></text>
+        <text y="80" opacity="0">10<animate attributeName="opacity" values="0;0;1;0;0;0" dur="1.9s" fill="freeze"/></text>
+        <text y="80" opacity="0">15<animate attributeName="opacity" values="0;0;0;1;0;0" dur="1.9s" fill="freeze"/></text>
+        <text y="80" opacity="0">20<animate attributeName="opacity" values="0;0;0;0;1;0" dur="1.9s" fill="freeze"/></text>
+        <text y="80" opacity="0">25<animate attributeName="opacity" values="0;0;0;0;0;1" dur="1.9s" fill="freeze"/></text>
+      </g>
+      <text y="116" fill="#8b949e" font-family="Poppins, sans-serif" font-size="12">TECNOLOGIAS NO STACK</text>
     </g>
+
     <g transform="translate(672 0)">
-      <text y="80" fill="#d2a8ff" font-size="38" font-weight="700">0<animate attributeName="opacity" values="1;0;0" dur="1.2s" fill="freeze"/></text>
-      <text y="80" fill="#d2a8ff" font-size="38" font-weight="700" opacity="0">1<animate attributeName="opacity" values="0;1;0" dur="1.2s" fill="freeze"/></text>
-      <text y="80" fill="#d2a8ff" font-size="38" font-weight="700" opacity="0">2<animate attributeName="opacity" values="0;0;1" dur="1.2s" fill="freeze"/></text>
-      <text y="116" fill="#8b949e" font-size="12">ACHIEVEMENTS</text>
+      <g font-family="Sora, sans-serif" font-size="38" font-weight="700" fill="#d2a8ff">
+        <text y="80">0<animate attributeName="opacity" values="1;0;0" dur="1.2s" fill="freeze"/></text>
+        <text y="80" opacity="0">1<animate attributeName="opacity" values="0;1;0" dur="1.2s" fill="freeze"/></text>
+        <text y="80" opacity="0">2<animate attributeName="opacity" values="0;0;1" dur="1.2s" fill="freeze"/></text>
+      </g>
+      <text y="116" fill="#8b949e" font-family="Poppins, sans-serif" font-size="12">ACHIEVEMENTS</text>
     </g>
+
     <g transform="translate(864 0)">
-      <text y="80" fill="#f2cc60" font-size="38" font-weight="700">0<animate attributeName="opacity" values="1;0" dur="1s" fill="freeze"/></text>
-      <text y="80" fill="#f2cc60" font-size="38" font-weight="700" opacity="0">1<animate attributeName="opacity" values="0;1" dur="1s" fill="freeze"/></text>
-      <text y="116" fill="#8b949e" font-size="12">HIGHLIGHT</text>
+      <g font-family="Sora, sans-serif" font-size="38" font-weight="700" fill="#f2cc60">
+        <text y="80">0<animate attributeName="opacity" values="1;0" dur="1s" fill="freeze"/></text>
+        <text y="80" opacity="0">1<animate attributeName="opacity" values="0;1" dur="1s" fill="freeze"/></text>
+      </g>
+      <text y="116" fill="#8b949e" font-family="Poppins, sans-serif" font-size="12">HIGHLIGHT</text>
     </g>
   </g>
-  <text x="24" y="168" fill="#6e7681" font-family="monospace" font-size="11">public-profile.metrics()</text>
+
+  <text x="24" y="168" fill="#6e7681" font-family="JetBrains Mono, monospace" font-size="11">public-profile.metrics()</text>
 </svg>
